@@ -637,7 +637,7 @@ A consistent visual design system was applied across all four pages.
 
 ### 🏠 Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](05_Images/executive_overview.png)
 
 ### 🔴 Attrition Analysis
 
