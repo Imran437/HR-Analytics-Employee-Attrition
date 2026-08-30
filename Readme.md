@@ -735,32 +735,6 @@ HR teams can use the dashboard as a recurring monitoring tool to identify change
 
 > These recommendations are based on observed patterns and associations in the dataset and should be validated with additional employee-level and organizational context before implementing HR policies.
 
-# 📁 Project Structure
-
-```text
-HR-Analytics/
-│
-├── data/
-│   └── hr_clean.csv
-│
-├── python/
-│   └── hr_analysis.ipynb
-│
-├── sql/
-│   ├── hr_analysis.sql
-│   └── hr_insights.sql
-│
-├── powerbi/
-│   └── HR_Analytics_Dashboard.pbix
-│
-├── screenshots/
-│   ├── executive_overview.png
-│   ├── attrition_analysis.png
-│   ├── compensation_career.png
-│   └── employee_satisfaction.png
-│
-└── README.md
-
 ## 📌 Conclusion
 
 This project demonstrates a complete end-to-end Data Analytics workflow, starting from raw HR data and progressing through data cleaning, exploratory analysis, SQL-based business analysis, DAX modeling, and interactive Power BI dashboard development.
