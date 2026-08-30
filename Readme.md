@@ -189,10 +189,6 @@ The following columns were removed because they did not contribute meaningfully 
 - `over_18`
 - `standard_hours`
 
-The cleaned dataset was saved as:
-
-**`hr_clean.csv`**
-
 ---
 
 # 📈 2. Exploratory Data Analysis — Python
@@ -284,6 +280,10 @@ Identified:
 - Top 10 employees by salary
 - Top 10 employees by total experience
 - Other high-value employee groups
+
+The cleaned dataset was saved as:
+
+**`hr_clean.csv`**
 
 ---
 
