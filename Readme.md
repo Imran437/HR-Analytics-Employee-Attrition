@@ -416,7 +416,6 @@ The SQL analysis involved:
 - Aggregate Functions
 - CTEs
 - Window Functions
-- Subqueries
 - Conditional Aggregation
 - Ranking
 - Filtering
@@ -749,7 +748,7 @@ and highlights employee segments and factors that may require further investigat
 
 ### 👨‍💻 Project Workflow
 
-**Python → MySQL → SQL → Power BI → Business Insights**
+**Python → MySQL → Power BI → Business Insights**
 
 ---
 
