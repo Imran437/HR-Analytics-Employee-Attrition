@@ -666,7 +666,6 @@ The analysis identified several patterns worth further investigation:
 - Compensation and salary growth vary significantly across departments, job roles, and job levels.
 - Some employee groups show both higher attrition and potentially unfavorable career-growth indicators, making them useful areas for further HR investigation.
 
-> **Note:** These findings represent patterns and associations in the dataset and should not automatically be interpreted as causal relationships.
 
 ---
 
